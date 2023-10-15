@@ -1,0 +1,19 @@
+body {
+    font-family: Sans-Serif;
+    background-color: grey;
+  }
+  .container {
+    margin: 0 auto
+  }
+  .title {
+    color: blue;
+    text-align: center;
+  }
+  .description{
+    color: blue;
+    text-align: center;
+  }
+  #survey-form{
+    display: block;
+    
+  }
